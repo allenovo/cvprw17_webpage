@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Disentangling Motion, Foreground and Bacground Features in Videos"
+title:       "Paper title"
 keywords:    "computer vision, deep learning, whatever"
 description: "Description here"
 source_link: "https://github.com/imatge-upc/wwwtemplate"
