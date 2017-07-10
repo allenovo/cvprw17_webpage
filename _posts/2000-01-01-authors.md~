@@ -9,31 +9,29 @@ style: center
 {: .text-purple}
 
 <div class="author">
-    <a href="https://imatge.upc.edu/" target="_blank">
-      <div class="authorphoto"><img src="./assets/xunyu.jpg"></div>
-      <div>Xunyu Lin*</div>
-    </a>
+    <div class="authorphoto"><img src="./assets/xunyu.jpg"></div>
+  <div>Xunyu Lin*</div>
 </div>
 <div class="author">
-    <a href="https://imatge.upc.edu/" target="_blank">
+    <a href="https://imatge.upc.edu/web/people/victor-campos" target="_blank">
       <div class="authorphoto"><img src="./assets/victor.jpg"></div>
       <div>Victor Campos</div>
     </a>
 </div>
 <div class="author">
-    <a href="https://imatge.upc.edu/" target="_blank">
+    <a href="https://imatge.upc.edu/web/people/xavier-giro" target="_blank">
       <div class="authorphoto"><img src="./assets/xavi.jpg"></div>
       <div>Xavier Giró</div>
     </a>
 </div>
 <div class="author">
-    <a href="https://imatge.upc.edu/" target="_blank">
+    <a href="https://www.bsc.es/torres-vinals-jordi" target="_blank">
       <div class="authorphoto"><img src="./assets/jordi.jpg"></div>
       <div>Jordi Torres</div>
     </a>
 </div>
 <div class="author">
-    <a href="https://imatge.upc.edu/" target="_blank">
+    <a href="https://www.linkedin.com/in/cristiancanton/" target="_blank">
       <div class="authorphoto"><img src="./assets/cristian.jpg"></div>
       <div>Cristian Canton</div>
     </a>
@@ -45,13 +43,13 @@ style: center
   </a>
 </span>
 
-<img src="./assets/buaa.gif" alt="buaa-logo" style="width: 140px;"/>
 <img src="./assets/upc.png" alt="upc-logo" style="width: 140px;"/>
+<img src="./assets/buaa.gif" alt="buaa-logo" style="width: 140px;"/>
 <img src="./assets/bsc.png" alt="bsc-logo" style="width: 140px;"/>
 <img src="./assets/facebook.png" alt="facebook-logo" style="width: 140px;"/>
 
-#### Beihang University
 #### Universitat Politècnica de Catalunya
+#### Beihang University
 #### Barcelona Supercomputing Center
 #### Facebook
 
