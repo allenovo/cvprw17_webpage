@@ -8,12 +8,9 @@ fa-icon: line-chart
 
 The benefits of our proposal are shown in a discriminative classification task, action recognition, where initializing the network with the proposed pretraining method outperforms both random initialization and autoencoder pretraining. The accuracy curves on validation set of all methods are shown in the figure below. 
 
-![arch](./assets/val_acc.png)
+<img src="./assets/val_acc.png" alt="val_acc" style="width: 520px;"/>
 
-The final testing results are depicted in the table.
+The final testing results are depicted in the table below.
 
-|          Method          |   Accuracy   |
-|:------------------------:|:------------:|
-|   Random initialization  |     52.2%    |
-| Pretrained (autoencoder) |     56.8%    |
-|     Pretrained (ours)    |   **62.5%**  |
+<img src="./assets/test_acc.png" alt="test_acc"/>
+
